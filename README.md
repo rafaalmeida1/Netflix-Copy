@@ -8,3 +8,5 @@
     <li>HTML</li>
     <li>CSS</li>
 </ul>
+
+<h2><a href="https://netflix-copybr.netlify.app/" target="_blank">Site</h2>
