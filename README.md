@@ -2,7 +2,7 @@
 
 
 
-<h2>Technologies used</h2>
+<h1>Technologies used</h1>
 <ul>
     <li>ReactJS</li>
     <li>NodeJS</li>
